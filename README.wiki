@@ -1,0 +1,217 @@
+
+
+
+
+<h1> collections </h1>
+
+------------------------------------ 
+== █ bio tools url █ ==
+https://omictools.com/ 
+
+------------------------------------ 
+== █ rec █ ==
+
+* the morning paper
+an interesting/influential/important paper from the world of CS every weekday morning, as selected by Adrian Colyer
+https://blog.acolyer.org/
+
+------------------------------------ 
+== █ vec █ ==
+
+=== ✒ MUST READ papers for NRL/NE.　===  
+NRL: network representation learning. 
+NE: network embedding.
+
+<blockquote> 
+ 
+{|　　
+|-
+|https://github.com/bill-codes/Network-Embedding-Resources
+|} 
+ 
+
+
+=== ✒ struc2vec: Learning Node Representations from Structural Identity　===  
+https://github.com/bill-codes/struc2vec
+<blockquote> 
+
+Ribeiro, Leonardo FR, Pedro HP Saverese, and Daniel R. Figueiredo. "struc2vec: Learning Node Representations from Structural Identity." Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. ACM, 2017.
+::: <br/> [https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C39&q=struc2vec%3A+Learning+Node+Representations+from+Structural+Identity&btnG= Gscholar] -- [https://scholar.googleusercontent.com/scholar.bib?q=info:A5icGBwWWEwJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWc6uXRN4wYBRBrTtWjna7a5DjQF-4JZT&scisf=4&ct=citation&cd=-1&hl=zh-CN BibTeX]
+
+ 
+{|　　class="wikitable"
+|-
+|Paper || https://github.com/bill-codes/struc2vec/blob/master/Paper/struc2vec.pdf || [https://github.com/leoribeiro/struc2vec orig1] [https://pdfs.semanticscholar.org/a734/e55941d0970c2f8a9f8eeba195c4ce1a3e90.pdf orig2]
+|-
+|Codes || https://github.com/bill-codes/struc2vec || [https://github.com/leoribeiro/struc2vec orig]
+|} 
+* Related materials:
+::: https://blog.acolyer.org/2017/09/15/struc2vec-learning-node-representations-from-structural-identity/
+
+</blockquote>
+
+ 
+
+
+
+
+------------------------------------ 
+== █ align █ ==
+
+=== ✒ LocalAli: an evolutionary-based local alignment approach to identify functionally conserved modules in multiple networks　===  
+https://github.com/bill-codes/localali
+<blockquote> 
+
+Hu, Jialu, and Knut Reinert. "LocalAli: an evolutionary-based local alignment approach to identify functionally conserved modules in multiple networks." Bioinformatics 31.3 (2014): 363-372.
+::: <br/> [https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C39&q=LocalAli%3A+an+evolutionary-based+local+alignment+approach+to+identify+functionally+conserved+modules+in+multiple+networks&btnG= Gscholar] -- [https://scholar.googleusercontent.com/scholar.bib?q=info:KeQYLCqPNccJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWc6-HWdM1qN7W7lm7qiVnu7FfLbsXOwF&scisf=4&ct=citation&cd=-1&hl=zh-CN BibTeX]
+
+ 
+{|　　class="wikitable"
+|-
+|Paper || httpstemppdf || [https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btu652 orig] 
+|-
+|Codes || httpstemp || [https://code.google.com/p/localali/ orig1] [https://github.com/screamer/localali orig2]
+|-
+|dataset || 4xx Mb || [http://ftp.mi.fu-berlin.de/jhu/LocalAli/dataset.tar.gz orig] 
+|-
+|Supplementary || httpstemp || [https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/31/3/10.1093_bioinformatics_btu652/2/btu652_Supplementary_Data.zip?Expires=1506624075&Signature=HiiFRHUO3E9H9nc6x6UuxMN5JhQFGQ~GDrWlgTfnaUr3llaOvTO-9gV4T~YeAvlQg~rV3~kgjOU8pWkAE9FJPEjW4Z6B-8KO-XvotmfW1Yel8R7Cs8sypPkJ9C6fu24KU2TnkMWaTG2Wvcq7SnNi1iwgBCR1JeY~EwwJzdoidhJ7lH7edXHM~wo5btRc2PGwJGc6wQ3Qc2-RYGBvD9lOQVOoyVrLWSW4Lt7RIJ~SXBrH7K1l0W0wsOxNFG65dxZpOm9m-FHOQpadv-zSDDjXzzlm5slxjwElBykQAoFDGuRwAB2Y8NIixIas5w-72gm3OZvHzYFPqLAffJ5Vrkh-Wg__&Key-Pair-Id=APKAIUCZBIA4LVPAVW3Q orig] 
+|} 
+* Related materials:
+::: httpstemp
+::: https://omictools.com/localali-tool
+
+</blockquote>
+
+
+
+=== ✒ NetCoffee: a fast and accurate global alignment approach to identify functionally conserved proteins in multiple networks 　===  
+https://github.com/bill-codes/netcoffee
+<blockquote> 
+
+Hu, Jialu, and Knut Reinert. "LocalAli: an evolutionary-based local alignment approach to identify functionally conserved modules in multiple networks." Bioinformatics 31.3 (2014): 363-372.
+::: <br/> [https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C39&q=LocalAli%3A+an+evolutionary-based+local+alignment+approach+to+identify+functionally+conserved+modules+in+multiple+networks&btnG= Gscholar] -- [https://scholar.googleusercontent.com/scholar.bib?q=info:KeQYLCqPNccJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWc6-HWdM1qN7W7lm7qiVnu7FfLbsXOwF&scisf=4&ct=citation&cd=-1&hl=zh-CN BibTeX]
+
+ 
+{|　　class="wikitable"
+|-
+|Paper || httpstemppdf || [https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btt715 orig] 
+|-
+|Codes || httpstemp || [https://code.google.com/p/netcoffee/ orig1] [https://github.com/screamer/netcoffee orig2]
+|-
+|dataset || https://github.com/screamer/netcoffee/blob/master/pub/dataset.tar.gz || 
+|-
+|Supplementary || httpstemp || [https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/30/4/10.1093_bioinformatics_btt715/3/btt715_Supplementary_Data.zip?Expires=1506624345&Signature=fly~PO-HaichtHyOyFmtVHZrwLB6V7KBUUEWEjIXDgdsqNdp0qXl3hZw6u7JG9VbD~BrMOEs~ttVcIy8NXsQOKgEkdOWii~w6~ezE2IPyn~rH4RbKGh7wbaOXin9NnCcx8Ggy3RwYJNccmHEldpdGBbTciM90DDq3b75Nx70ZLkbnUAk9o-qeTr~yKuMslH1UNyr3rIfokp0izOXcAMXCd8D6Tg90Q375t9cn8T0A2WwPx9DfY0BsdB7owwdqa~J7Xxbzu-IdSr5PJF2eeG4DvAioo8KD2qqikJlF0NNnBzeHO69ZfFcl0-6lq9QWMl88WByHkN0saYPSRXRFeyoWQ__&Key-Pair-Id=APKAIUCZBIA4LVPAVW3Q orig] 
+|} 
+* Related materials:
+::: httpstemp
+::: https://omictools.com/ 
+
+</blockquote>
+
+
+
+
+SANA
+http://escholarship.org/uc/item/2vb9m9hv
+http://escholarship.org/uc/item/2vb9m9hv.pdf
+
+https://arxiv.org/pdf/1607.02642.pdf
+https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btx090
+
+
+
+
+
+Chapter 5
+Biological Network Alignment
+https://www.cs.purdue.edu/homes/mohammas/pdfs/book_chapter.pdf
+
+
+
+
+netalign
+https://web.stanford.edu/dgleich/
+https://www.cs.purdue.edu/homes/dgleich/codes/netalign/
+http://web.stanford.edu/~bayati/papers/netalign.pdf
+https://www.cs.purdue.edu/homes/dgleich/    https://www.cs.purdue.edu/homes/dgleich/codes/
+netalign-online-20110227.tar.gz 
+
+
+BIG-ALIGN: Fast Bipartite Graph Alignment
+
+
+
+
+
+
+https://code.google.com/archive/p/netcoffee/
+Other existing tools
+
+LocalAli
+
+BEAMS
+
+SMETANA
+
+IsoRank-N
+
+GEDEVO-M
+
+
+http://www.cs.tau.ac.il/~bnet/License-nbm.htm
+NetworkBlast-M
+
+
+https://github.com/robotology/wysiwyd/blob/704024c9901b87b150e8c017b9aa68e3bef98b5b/main/src/modules/kinematicStructureLearning/matlabModuleKS/include/include_Matlab/topology_similarity/graph_alignment/NETAL/Alignment.cpp
+wysiwyd/main/src/modules/kinematicStructureLearning/matlabModuleKS/include/include_Matlab/topology_similarity/graph_alignment/NETAL/Alignment.cpp
+EC ICS S3
+
+MAGNA++
+MAGNA++: Maximizing Accuracy in Global Network ... - Bioinformatics
+bioinformatics.oxfordjournals.org/content/.../bioinformatics.btv161.short 
+https://www3.nd.edu/~cone/MAGNA++/downloads.html
+https://www3.nd.edu/~cone/MAGNA++/downloads/MAGNA++_01_30_2015.zip
+https://www3.nd.edu/~cone/MAGNA++/downloads/networks.zip
+MAGNA++ | Global network alignment : Biological network analysis ...
+https://github.com/robotology/wysiwyd/blob/704024c9901b87b150e8c017b9aa68e3bef98b5b/main/src/modules/kinematicStructureLearning/matlabModuleKS/include/include_Matlab/topology_similarity/graph_alignment/MAGNA%2B%2B_CLI_Linux64_01_30_2015/README.txt
+https://omictools.com/magna-tool
+
+GitHub - locusxt/multi-magna
+https://github.com/locusxt/multi-magna
+
+
+
+
+Multiple network alignment via multiMAGNA++
+https://www3.nd.edu/~cone/multiMAGNA++/
+
+
+
+
+
+
+
+=== ✒ temp　===  
+<blockquote> 
+
+httpstemp
+::: <br/> [https://scholar.google.com Gscholar] -- [httpstemp BibTeX]
+
+ 
+{|　　class="wikitable"
+|-
+|Paper || httpstemppdf || [httpstemppdf orig1]; [httpstemppdf orig2] 
+|-
+|Codes || httpstemp || [httpstemp orig1]; [httpstemp orig2]
+|} 
+* Related materials:
+::: httpstemp
+
+</blockquote>
+
+
+
+
+
+
+
